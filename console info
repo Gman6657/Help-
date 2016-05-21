@@ -1,0 +1,207 @@
+锘?.15.1.0
+Successfully set name to Gtown Basic!!
+Successfully set welcome message to Welcome! Player!!
+Successfully set port to 27015!
+Successfully set map to PEI!
+Successfully set max players to 24!
+Successfully set cycle to 86400!
+Successfully set perspective to both!
+Successfully set gamemode to normal!
+Successfully set owner to 76561198160220937!
+Successfully enabled cheats.
+Found shared workshop assets: 0
+Found server workshop assets: 100
+Loading server workshop assets: 25/100
+Loading server workshop assets: 50/100
+Loading server workshop assets: 75/100
+Loading server workshop assets: 100/100
+Found item assets: 925
+Loading item assets: 25/925
+Loading item assets: 50/925
+Loading item assets: 75/925
+Loading item assets: 100/925
+Loading item assets: 125/925
+Loading item assets: 150/925
+Loading item assets: 175/925
+Loading item assets: 200/925
+Loading item assets: 225/925
+Loading item assets: 250/925
+Loading item assets: 275/925
+Loading item assets: 300/925
+Loading item assets: 325/925
+Loading item assets: 350/925
+Loading item assets: 375/925
+Loading item assets: 400/925
+Loading item assets: 425/925
+Loading item assets: 450/925
+Loading item assets: 475/925
+Loading item assets: 500/925
+Loading item assets: 525/925
+Loading item assets: 550/925
+Loading item assets: 575/925
+Loading item assets: 600/925
+Loading item assets: 625/925
+Loading item assets: 650/925
+Loading item assets: 675/925
+Loading item assets: 700/925
+Loading item assets: 725/925
+Loading item assets: 750/925
+Loading item assets: 775/925
+Loading item assets: 800/925
+Loading item assets: 825/925
+Loading item assets: 850/925
+Loading item assets: 875/925
+Loading item assets: 900/925
+Loading item assets: 925/925
+Found effect assets: 90
+Loading effect assets: 15/90
+Loading effect assets: 40/90
+Loading effect assets: 65/90
+Loading effect assets: 90/90
+Found object assets: 527
+Loading object assets: 2/527
+Loading object assets: 27/527
+Loading object assets: 52/527
+Loading object assets: 77/527
+Loading object assets: 102/527
+Loading object assets: 127/527
+Loading object assets: 152/527
+Loading object assets: 177/527
+Loading object assets: 202/527
+Loading object assets: 227/527
+Loading object assets: 252/527
+Loading object assets: 277/527
+Loading object assets: 302/527
+Loading object assets: 327/527
+Loading object assets: 352/527
+Loading object assets: 377/527
+Loading object assets: 402/527
+Loading object assets: 427/527
+Loading object assets: 452/527
+Loading object assets: 477/527
+Loading object assets: 502/527
+Loading object assets: 527/527
+Found resource assets: 21
+Loading resource assets: 21/21
+Found vehicle assets: 109
+Loading vehicle assets: 9/109
+Loading vehicle assets: 34/109
+Loading vehicle assets: 59/109
+Loading vehicle assets: 84/109
+Loading vehicle assets: 109/109
+Found animal assets: 7
+Loading animal assets: 7/7
+Found mythic assets: 21
+Loading mythic assets: 21/21
+Found skin assets: 115
+Loading skin assets: 15/115
+Loading skin assets: 40/115
+Loading skin assets: 65/115
+Loading skin assets: 90/115
+Loading skin assets: 115/115
+Found spawn table assets: 525
+Loading spawn table assets: 25/525
+Loading spawn table assets: 50/525
+Loading spawn table assets: 75/525
+Loading spawn table assets: 100/525
+Loading spawn table assets: 125/525
+Loading spawn table assets: 150/525
+Loading spawn table assets: 175/525
+Loading spawn table assets: 200/525
+Loading spawn table assets: 225/525
+Loading spawn table assets: 250/525
+Loading spawn table assets: 275/525
+Loading spawn table assets: 300/525
+Loading spawn table assets: 325/525
+Loading spawn table assets: 350/525
+Loading spawn table assets: 375/525
+Loading spawn table assets: 400/525
+Loading spawn table assets: 425/525
+Loading spawn table assets: 450/525
+Loading spawn table assets: 475/525
+Loading spawn table assets: 500/525
+Loading spawn table assets: 525/525
+Found map assets: 0
+Cleaning up...
+Linking blueprints...
+Linking spawns...
+Loading miscellaneous...
+Setting breakpad minidump AppID = 304930
+Loading level: 8%
+Loading level: 16%
+Loading level: 25%
+Loading level: 33%
+Loading level: 41%
+Loading level: 50%
+Loading level: 58%
+Loading level: 66%
+Loading level: 75%
+Loading level: 83%
+Loading level: 91%
+Loading level: 100%
+Connecting: PlayerID: 76561198160220937 Name: [TCSA] Gman6657 Character: [TCSA] Gman6657
+[World] [TCSA] Gman6657 [[TCSA] Gman6657]: "/give 40005"
+Successfully gave [TCSA] Gman6657 40005 x1!
+[World] [TCSA] Gman6657 [[TCSA] Gman6657]: "/give 12402"
+Successfully gave [TCSA] Gman6657 12402 x1!
+[TCSA] Gman6657 [[TCSA] Gman6657] was blown up by a grenade!
+Disconnecting: PlayerID: 76561198160220937 Name: [TCSA] Gman6657 Character: [TCSA] Gman6657
+STEAMPS3 - AsyncTCPSocket created
+STEAMPS3 - AsncTCPSocket destroyed
+Connecting: PlayerID: 76561198160220937 Name: [TCSA] Gman6657 Character: [TCSA] Gman6657
+[World] [TCSA] Gman6657 [[TCSA] Gman6657]: "/DAY"
+Successfully set time to day!
+[World] [TCSA] Gman6657 [[TCSA] Gman6657]: "/god"
+[World] [TCSA] Gman6657 [[TCSA] Gman6657]: "/vanish"
+[World] [TCSA] Gman6657 [[TCSA] Gman6657]: "/p"
+[World] [TCSA] Gman6657 [[TCSA] Gman6657]: "/p"
+>help
+Commands:
+Admin [SteamID | Player]
+Admins
+Ban [SteamID | Player]/[Reason]/[Duration]
+Bans
+Bind [IP]
+Chatrate [Number]
+Cheats
+Cycle [Number]
+Day
+Debug
+Experience [SteamID | Player]/[Experience]
+Filter
+Give [SteamID | Player]/[ItemID]/[Amount]
+Gold
+Help [Command]
+Kick [SteamID | Player]/[Reason]
+Loadout [SkillsetID]/[ItemID]/[ItemID]/...
+Log [Chat Y/N]/[Join/Leave Y/N]/[Death Y/N].
+Map [Level]
+MaxPlayers [Number]
+Mode [Easy | Normal | Hard | Gold]
+Name [Text]
+Night
+Owner [SteamID]
+Password [Text]
+Permit [SteamID]/[Tag]
+Permits
+Perspective [First | Third | Both]
+Players
+Port [Number]
+PvE
+ResetConfig
+Save
+Say [Text]/[R]/[G]/[B]
+Shutdown [Delay]
+Slay [SteamID | Player]
+Storm
+Sync
+Teleport [SteamID | Player]/[SteamID | Player | Location]
+Time [Number]
+Timeout [Number]
+Unadmin [SteamID | Player]
+Unban [SteamID]
+Unpermit [SteamID]
+Vehicle [SteamID | Player]/[VehicleID]
+Votify [Vote Allowed Y/N]/[Pass Cooldown]/[Fail Cooldown]/[Vote Duration]/[Vote Percentage]/[Players]
+Welcome [Text]/[R]/[G]/[B]
+Connecting: PlayerID: 76561198305295860 Name: arthurcancionieri Character: arthurcancionieri
